@@ -1,0 +1,7 @@
+.project
+.cache/
+.settings/
+.idea/
+pull.php
+
+/vendor/

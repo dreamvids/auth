@@ -1,0 +1,15 @@
+{
+    "name": "dreamvids/authenticator",
+    "type": "project",
+    "require": {
+        "dreamvids/php-library": "dev-master"
+    },
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "DreamVids",
+            "email": "dev@dreamvids.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
